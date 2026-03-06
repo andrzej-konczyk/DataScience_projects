@@ -41,7 +41,7 @@
 ## Repo layout (GitHub-ready)
 
 ```
-ML DQ/
+HR_Attrition/
 ├── data/
 │   └── WA_Fn-UseC_-HR-Employee-Attrition.csv
 ├── HR_Employee_Attrition.ipynb
@@ -52,4 +52,5 @@ ML DQ/
 ```
 
 All of the above can be pushed to GitHub together; no extra files are required for a minimal public repo.
+
 
