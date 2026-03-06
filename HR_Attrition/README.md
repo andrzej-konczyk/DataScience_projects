@@ -5,7 +5,7 @@ ML pipeline for **HR Employee Attrition** prediction with **data quality checks*
 ## Repository layout
 
 ```
-ML DQ/
+HR_Attrition/
 ├── data/
 │   └── WA_Fn-UseC_-HR-Employee-Attrition.csv   # Input dataset
 ├── HR_Employee_Attrition.ipynb                 # Full pipeline (EDA → DQ → modeling)
@@ -62,3 +62,4 @@ git push -u origin main
 ```
 
 Ensure the CSV and notebook are not in `.gitignore` (they are not). If the notebook is very large because of outputs, consider clearing outputs before the first push or adding a note in the README.
+
