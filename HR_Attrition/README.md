@@ -27,7 +27,7 @@ HR_Attrition/
    ```bash
    pip install -r requirements.txt
    ```
-4. **Run the notebook** from the **project root** (`ML DQ`), so the path `data/WA_Fn-UseC_-HR-Employee-Attrition.csv` resolves:
+4. **Run the notebook** from the **project root** (`HR_Attrition`), so the path `data/WA_Fn-UseC_-HR-Employee-Attrition.csv` resolves:
    - Open `HR_Employee_Attrition.ipynb` in Jupyter or VS Code.
    - Execute all cells (or run step by step).
 
@@ -62,4 +62,5 @@ git push -u origin main
 ```
 
 Ensure the CSV and notebook are not in `.gitignore` (they are not). If the notebook is very large because of outputs, consider clearing outputs before the first push or adding a note in the README.
+
 
