@@ -1,6 +1,6 @@
 # Code and data review – ML DQ (HR Employee Attrition)
 
-**Location:** Project root `ML DQ` with `data/` subfolder.  
+**Location:** Project root `HR_Attrition` with `data/` subfolder.  
 **Artifacts:** `data/WA_Fn-UseC_-HR-Employee-Attrition.csv`, `HR_Employee_Attrition.ipynb`, `requirements.txt`.
 
 ---
@@ -52,3 +52,4 @@ ML DQ/
 ```
 
 All of the above can be pushed to GitHub together; no extra files are required for a minimal public repo.
+
