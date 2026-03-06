@@ -51,6 +51,5 @@ HR_Attrition/
 └── REVIEW.md   (this file)
 ```
 
-All of the above can be pushed to GitHub together; no extra files are required for a minimal public repo.
 
 
