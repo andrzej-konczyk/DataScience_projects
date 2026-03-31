@@ -49,18 +49,4 @@ HR_Attrition/
 
 See **[REVIEW.md](REVIEW.md)** for a short review of the code, data, and repo layout.
 
-## Pushing to GitHub
-
-All necessary files are in place. From the `ML DQ` folder:
-
-```bash
-git init
-git add .
-git commit -m "Initial commit: HR Attrition pipeline + data + DQ"
-git remote add origin <your-repo-url>
-git push -u origin main
-```
-
-Ensure the CSV and notebook are not in `.gitignore` (they are not). If the notebook is very large because of outputs, consider clearing outputs before the first push or adding a note in the README.
-
 
