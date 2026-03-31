@@ -22,7 +22,7 @@
 
 ## Code review
 
-- **Notebook:** `HR_Employee_Attrition.ipynb` – “pipeline v3 (fixed)”.
+- **Notebook:** `HR_Employee_Attrition.ipynb`
 - **Flow:** Imports → load CSV → EDA → **Great Expectations** validation gate → preprocessing (e.g. encoding, scaling) → modeling → metrics.
 - **Stack:** pandas, numpy, matplotlib, seaborn, scikit-learn, imbalanced-learn (SMOTE), XGBoost, LightGBM (optional fallback), Great Expectations.
 - **Data path:** `DATA_PATH = 'data/WA_Fn-UseC_-HR-Employee-Attrition.csv'` – assumes notebook is run from project root; matches current layout.
